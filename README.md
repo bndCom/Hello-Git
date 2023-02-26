@@ -1,1 +1,2 @@
-Hello Git World! ready to start a new incredible adventure..
+**Hello Git World!**
+Ready to start a new incredible adventure..
